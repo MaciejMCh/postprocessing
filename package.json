@@ -81,7 +81,7 @@
 	"eslintConfig": {
 		"extends": "aether"
 	},
-	"peerDependencies": {
+	"dependencies": {
 		"three": ">= 0.125.0 < 0.147.0"
 	},
 	"devDependencies": {
